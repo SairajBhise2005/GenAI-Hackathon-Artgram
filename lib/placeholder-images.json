@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "artisan-1",
+      "description": "Profile picture for a potter",
+      "imageUrl": "https://picsum.photos/seed/artisan1/200/200",
+      "imageHint": "potter portrait"
+    },
+    {
+      "id": "artisan-2",
+      "description": "Profile picture for a woodworker",
+      "imageUrl": "https://picsum.photos/seed/artisan2/200/200",
+      "imageHint": "woodworker portrait"
+    },
+    {
+      "id": "artisan-3",
+      "description": "Profile picture for a painter",
+      "imageUrl": "https://picsum.photos/seed/artisan3/200/200",
+      "imageHint": "painter portrait"
+    },
+    {
+      "id": "reel-1",
+      "description": "A potter shaping clay on a wheel",
+      "imageUrl": "https://picsum.photos/seed/reel1/400/600",
+      "imageHint": "pottery wheel"
+    },
+    {
+      "id": "reel-2",
+      "description": "A woodworker carving a piece of wood",
+      "imageUrl": "https://picsum.photos/seed/reel2/400/600",
+      "imageHint": "wood carving"
+    },
+    {
+      "id": "reel-3",
+      "description": "A painter working on a canvas",
+      "imageUrl": "https://picsum.photos/seed/reel3/400/600",
+      "imageHint": "painting canvas"
+    },
+    {
+      "id": "reel-4",
+      "description": "Close-up of a finished ceramic bowl",
+      "imageUrl": "https://picsum.photos/seed/reel4/400/600",
+      "imageHint": "ceramic bowl"
+    },
+    {
+      "id": "reel-5",
+      "description": "A detailed shot of a wooden sculpture",
+      "imageUrl": "https://picsum.photos/seed/reel5/400/600",
+      "imageHint": "wooden sculpture"
+    },
+    {
+      "id": "reel-6",
+      "description": "Abstract oil painting in progress",
+      "imageUrl": "https://picsum.photos/seed/reel6/400/600",
+      "imageHint": "abstract painting"
+    }
+  ]
+}
